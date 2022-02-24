@@ -1,4 +1,4 @@
-# Python Class # Summer 2022
+# LIS 4930 Introduction to Python # Summer 2022
 This course introduces the python programming language as an essential general programming concepts and techniques to data analytics. Python is a popular, multi-paradigm, open-source, scripting language. It is designed to emphasize code readability – has a clean syntax with high level data types. It is suited for interactive work and quick prototyping, while being powerful enough to write large applications. This course will introduce the students to Python language syntax and to its ecosystem.
 #####
 # LEARNING OUTCOMES:
