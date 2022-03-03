@@ -1,5 +1,5 @@
 Summer 2022 
-LIS 4930 Introduction to python programming  
+LIS 4930 Introduction to python programming√ä 
 Instructor: Alon Friedman, PhD -- Associate Professor, School of Information
 Online Meeting Time: Tuesdays 10:00am to 4:00pm
 Phone: 813-974-3520
@@ -7,15 +7,15 @@ Email: alonfriedman@usf.edu
 Microsoft Teams: alonfriedman@usf.edu
 My GitHub account: 
 COURSE DESCRIPTION:
-One of the main analytics programming languages is python. This course introduces the python programming language as an essential general programming concepts and techniques to data analytics. Python is a popular, multi-paradigm, open-source, scripting language. It is designed to emphasize code readability – has a clean syntax with high level data types. It is suited for interactive work and quick prototyping, while being powerful enough to write large applications. This course will introduce the students to Python language syntax and to its ecosystem.
- 
+One of the main analytics programming languages is python. This course introduces the python programming language as an essential general programming concepts and techniques to data analytics. Python is a popular, multi-paradigm, open-source, scripting language. It is designed to emphasize code readability √ê has a clean syntax with high level data types. It is suited for interactive work and quick prototyping, while being powerful enough to write large applications. This course will introduce the students to Python language syntax and to its ecosystem.
+√ä
 LEARNING OUTCOMES:
 Upon completing this course, students will need to demonstrate the following competencies:
 * Familiarity with the Python programming language and associated development tools (IDEs, pip)
 * Hands-on experience using various Python data structures, and reading and writing files in Python
 * Exposure to Python tools and techniques used to solve problems in real fields such as data science.
 * Introducing Python and ecosystem packages available
- 
+√ä
 TEXTBOOK:
 Martelli, Alex, Anna Ravenscroft, and David Ascher. Python cookbook. " O'Reilly Media, Inc.", 2005.
 TEACHING STRATEGIES:
@@ -23,7 +23,7 @@ TEACHING STRATEGIES:
 * Student assignments and final project
 * Computer Learning Methodologies
 * Different text readings
- 
+√ä
 COURSE GRADE EVALUATION
 1. Personal Blog 5% 
 2. Weekly Class Assignments 40% 
@@ -32,46 +32,80 @@ COURSE GRADE EVALUATION
 >> Your grade will be based on the following:
 our Grade will be based on the following items:
 1. Blog (5% of the grade)
-Each student in the class will need to create his/her own blog. There are several different sites offering free blog services, but one of the easiest to use is Wordpress. You can also create your blog on the USF system. Your blog postings need to reflect on your own experiences in creating advanced webpages.  Your blog will provide you a place where you can describe your experience with R. 
-Plus student in the class will need to create his/her own GitHub account. (https://github.com/join  (Links to an external site.))
-*You are expected to complete at least one blog posting a week. 
+Each student in the class will need to create his/her own√äblog.√äThere are several different sites offering free blog services, but one of the easiest to use is Wordpress. You can also create your blog on the USF system. Your blog postings need to reflect on your own experiences in creating advanced webpages.√ä Your blog will provide you a place where you can describe your experience with R.√ä
+Plus student in the class will need to create his/her own GitHub account. (https://github.com/join√ä√ä(Links to an external site.))
+*You are expected to complete at least one blog posting a√äweek.√ä
 
 2. Weekly Homework Assignment (35% of the grade)?
->> >> You will post your homework assignment on your Blog and Python code on your GitHub repository. You will submit both URLs to Canvas on each assignment. 
+>> >> You will post your homework assignment on your Blog and Python code on your GitHub repository. You will submit both URLs to Canvas on each assignment.√ä
 
-3. Final Project Total (60%)?
+3. Final√äProject Total (60%)?
 At some point during this course, you've hopefully felt "the lightbulb go on" regarding how you might apply the lesson material to your own tasks. To conclude this course, you will be expected to complete an individual project that uses Python as tool to analyze data.
 The project goal is up to you, but it is preferably one that relates to your current field of work or a field in which you have a personal interest. I don't mind what packages or libraries you use, or it can be a standalone program, or some combination of the above.
 What I am expecting is that you will use the advanced concepts that you have learned in the class where appropriate so perhaps that means using list comprehension or multiprocessing or regular expressions (or all of them) depending on the problem that you're trying to solve.
 The Final Project will be graded by the following criteria:    
 *Appropriateness, thoroughness, and accuracy of analysis in your code 60%.
 * Effectiveness of communication 40%. Includes writing, organization, professionalism & style.
- 
+√ä
 GRADE SCALE
 The student grade will be awarded according to the following scale:
-94-100%     A
-90-93%        A-
-87-89%        B+
-84-86%        B
-80-83%        B-
-77-79%        C+
-70-76%        C
-60-69%        D
-Below 60%
- 
-INCOMPLETE(S): 
+94-100% A
+90-93%  A-
+87-89%  B+
+84-86%  B
+80-83%  B-
+77-79%. C+
+70-76%. C
+60-69%  D
+Below 60% E
+INCOMPLETE(S):E
+
 Students who do not turn their projects on time should expect their grades will be reduced by 50%.
 ATTENDANCE POLICY:
 Online attendance is mandatory.
 ADA Statement
-Students in need of academic accommodations for a disability may consult with the office of Services for Students with Disabilities [http://sds.usf.edu/ ] to arrange appropriate accommodations.  Students are required to give reasonable notice (typically 5 working days) prior to requesting an accommodation.
+Students in need of academic accommodations for a disability may consult with the office of Services for Students with Disabilities [http://sds.usf.edu/√ä] to arrange appropriate accommodations.√ä Students are required to give reasonable notice (typically 5 working days) prior to requesting an accommodation.
 USF Policy on Religious Observances? Students who anticipate the necessity of being absent from the online environment for more than 1 week due to a major religious observance must provide notice of the date(s) to the instructor, in writing, by the second week of the course. http://generalcounsel.usf.edu/policies-and-procedures/pdfs/policy-10-045.pdf
-Emergency Procedures/Academic Integrity 
+Emergency Procedures/Academic Integrity√ä
 In the event of an emergency, it may be necessary for USF to suspend normal operations. During this time, USF may opt to continue delivery of instruction through methods that include but are not limited to: the learning management system, email and/or an alternate schedule. It is the responsibility of the student to monitor their courses for specific communication, and the main USF, College, and department websites, emails, and Bull messages for important general information.
 
 
 Class Schedule
-MODULE #TOPICSModule # 11. What is python? and what is python ecosystems?2. Data structures and Variables and expressionsModule # 22.1 Strings, text, numbers, and times2.2 Decision StatementsModule # 33.1 Functions 3.2 Classes and ObjectsModule # 44.1 Simulation, Files and stings I/0 and Binary Numbers4.1 Statistics and AnalyticsModule # 55.1Developing Tools5.2 VisualizationModule # 66.1Data encoding and processing6.2 Introduction to GUI programming in Python Part # 1Module # 77.1 GUI programming Part # 27.2 TestingModule # 8Review and updatesFinal projectJuly 24, 2022  
+MODULE #
+TOPICS
+Module # 1
+1. What is python? and what is python ecosystems?
+
+2. Data structures and Variables and expressions
+Module # 2
+2.1 Strings, text, numbers, and times
+
+2.2 Decision Statements
+Module # 3
+3.1 Functions 
+
+3.2 Classes and Objects
+Module # 4
+4.1 Simulation, Files and stings I/0 and Binary Numbers
+
+4.1 Statistics and Analytics
+Module # 5
+5.1Developing Tools
+
+5.2 Visualization
+Module # 6
+6.1Data encoding and processing
+
+6.2 Introduction to GUI programming in Python Part # 1
+Module # 7
+7.1 GUI programming Part # 2
+
+7.2 Testing
+Module # 8
+Review and updates
+Final project
+July 24, 2022 
+√ä
 References
 Archer, J., & Jockers, M. L. (2016). The bestseller code: Anatomy of the blockbuster novel. St. Martin's Press. Amazon. $10.
 Downey, A. Think Python. (Free) https://greenteapress.com/wp/think-python/
@@ -79,5 +113,5 @@ Franco Moretti, Graphs, Maps, Trees: Abstract Models for Literary History (Memph
 Jurafsky & Martin Speech and Language Processing (Free) https://web.stanford.edu/~jurafsky/slp3/
 Nathan Yau, Visualize This: The FlowingData Guide to Design, Visualization, and Statistics (Indianapolis: Wiley, 2011)
 Ramsay, S. (2011). Reading Machines: Toward and Algorithmic Criticism. University of Illinois Press
- 
+√ä
 
