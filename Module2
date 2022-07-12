@@ -1,1 +1,9 @@
-
+print ('Hello World!')
+Hello World!
+#Creating a String
+# with single quotes
+String1 = 'Welcome to USF'
+print ("String with the use of single quotes:")
+String with the use of single quotes:
+print (String1)
+Welcome to USF
