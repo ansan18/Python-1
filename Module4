@@ -1,1 +1,33 @@
+from math import sqrt
+a = float(input ("Input a: "))
+Input a: 1
+b = float(input("Input b: "))
+Input b: -5.86
+c = float(input("Input c: "))
+Input c: 8.5408
+d = (b**2) - (4*a*c)
+if d==0:
+    sol = (((-b) + sqrt(d))/(2*a))
+    print("Quadratic have equal root: ",sol)
+elif d>0:
+    sol1 = (((-b) + sqrt(d))/(2*a))
+    sol2 = (((-b) + sqrt(d))/(2*a))
+    print("There are 2 roots: %f and %f" % (sol1, sol2))
+else:
+    print ("No root exists")
 
+There are 2 roots: 3.140000 and 3.140000
+
+for i in range(2,11):
+    print(1/i)
+
+    
+0.5
+0.3333333333333333
+0.25
+0.2
+0.16666666666666666
+0.14285714285714285
+0.125
+0.1111111111111111
+0.1
