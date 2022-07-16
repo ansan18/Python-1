@@ -1,1 +1,61 @@
+import sys
+for line in sys.stdin:
+    data = line.strip().split("t")
+    if len (data) == 6:
+        data = date,time,store,item,cost,payment = data
+        print('{0}\t{1}'.format(item, cost))
+        
+for line in sys.stdin:
+    data = line.strip().split("t")
+    if len (data) == 6:
+        data = date,time,store,item,cost,payment = data
+        print('{0}\t{1}'.format(item, cost))
 
+class my_datetime:
+    def __init__(self, feet, inches):
+        self.feet = feet
+        self.inches = inches
+        self.time = datetime.now()
+    def myfunc(self):
+        print(("Feet: {0}, Inches: {1}, Time Created: {2}").format(self.feet, self.inches, self.time))
+
+new_object = my_datetime(10, 11)
+print(new_object.myfunc())
+
+
+from datetime import timedelta
+from datetime import datetime
+print (datetime.now () - timedelta (seconds = 60))
+2022-07-16 16:40:15.225305
+print (datetime.now () + timedelta (days = 720))
+2024-07-05 16:41:57.536619
+print (datetime.now () + timedelta (days = 1))
+2022-07-17 16:42:21.371097
+
+from datetime import datetime
+from datetime import timedelta
+d = timedelta (microseconds = -1)
+print (d.days, d.seconds, d.microseconds)
+-1 86399 999999
+e = timedelta (minutes = 144613)
+print (e.days, e.seconds)
+100 36780
+
+
+from datetime import datetime
+
+datetime_object = datetime.now()
+def Measurement (f, i, z):
+    print("Feet",f)
+    print("Inches",i)
+    print(z)
+
+    
+f = input ("Enter in feet")
+Enter in feet
+i = input ("Enter in inches ")
+Enter in inches 
+Measurement (f,i,datetime_object)
+Feet 
+Inches 
+2022-07-16 16:49:53.861522
