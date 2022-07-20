@@ -9,3 +9,45 @@ while repeat:
     print("Would you like to roll again? Yes or No?")
     repeat = "Yes" in input()
 
+
+
+
+
+
+
+
+
+#hangman attempt 
+import random
+def hangman():
+    secret_words = ['Python is fun', "Dr. Friedman is great", "Python Summer 2022"]
+    random_index = random.randint(0, len(secret_words)-1)
+    word_to_be=secret_words[random_index].lower()
+    user_word = []
+    guess_count=0
+    print("Current guesses")
+    for c in word_to_be_guessed:
+        if c ==" ":
+                user_word.append(" ")
+                print(" ",end=" ")
+        else:
+                user_word.append("_")
+                print("_", end=" ")
+ while True:
+        if(guess_count==20):
+            break
+        letter= input("\nEnter your next letter to guess: ")
+        guess_count+=1
+        index=0
+        for i in range(0, len(word_to_be_guessed)):
+            if(word_to_be_guessed[i]==letter):
+                user_word[i]=letter
+        print("Current guesses")
+        print(" ".join(user_word))
+        if(word_to_be_guessed=="".join(user_word))
+            print("You win :-)!! The hangman sentence is: ",word_to_be_guessed, '!')
+                break
+hangman()
+        
+        
+        
